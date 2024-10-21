@@ -42,6 +42,8 @@ node index.js
 ---
 
 ### 🖼️ Screenshots / Images
-https://media.discordapp.net/attachments/1288595688694747228/1298049544453492746/image.png?ex=67182657&is=6716d4d7&hm=fea2f541bf01a40264340b4c2b0b1a2cb5298344ff6419b0e9fb99018e7a6670&=&format=webp&quality=lossless&width=452&height=668
+
+![Overseer Bot Screenshot](https://media.discordapp.net/attachments/1288595688694747228/1298049544453492746/image.png?ex=67182657&is=6716d4d7&hm=fea2f541bf01a40264340b4c2b0b1a2cb5298344ff6419b0e9fb99018e7a6670&=&format=webp&quality=lossless&width=452&height=668)
+
 
 ---
