@@ -14,7 +14,7 @@ exports.help = {
 exports.run = async (bot, message, args, config) => {
   const user = message.mentions.users.first() || message.author;
   const insults = [
-    `> **🤬 ${message.author.username} dit à ${user.username} : "Va te faire voir !"**`,
+    `> **🤬 ${message.author.username} dit à ${user.username} : "Va te faire encule ace !"**`,
     `> **👎 ${message.author.username} n'aime pas ${user.username} !**`,
     `> **😠 ${message.author.username} est en colère contre ${user.username} !**`,
     `> **🔥 ${message.author.username} pense que ${user.username} devrait se calmer un peu !**`,
